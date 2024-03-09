@@ -87,8 +87,9 @@ void push_button()
 ```
 ## Output  :
  
- 
- 
- 
+![Output](Op1-pmc2.png)
+
+![Output](Op2-pmc2.png)
+
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
